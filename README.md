@@ -3,9 +3,11 @@
 作业的发布与提交都在本git仓库中进行
 
 相关资源：
-A 机器学习视频网站--请与课程的进度保持同步。http://www.coursera.org/learn/machine-learning/
-B matlab下载地址--windows & linux。链接: https://pan.baidu.com/s/1o787KeA 密码: ad6a
-C 数据挖掘导论--作为补充材料。发布于群文件
+A. 机器学习视频网站--请与课程的进度保持同步。http://www.coursera.org/learn/machine-learning/
+
+B. matlab下载地址--windows & linux。链接: https://pan.baidu.com/s/1o787KeA 密码: ad6a
+
+C. 数据挖掘导论--作为补充材料。发布于群文件
 
 
 欢迎来到新手村，你需要完成以下训练：
