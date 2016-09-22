@@ -23,11 +23,11 @@
 	7. commit到本地仓库，然后将本地分支推送到remote
 	8. 向原仓库的master分支发起pull request，等待合并分支
 
-	请于第二周结束前完成以上内容。
+	请于第三周结束前完成以上内容。
 
 
 
-2. Task1--Linear Regression
+2. Task1——Linear Regression
 	1. 加载数据Task1/q2x.dat，Task1/q2y.dat
 	2. 使用线性回归算法拟合它们
 	3. 画图观察梯度下降的过程,let it nice-looking:)。
@@ -36,10 +36,10 @@
 	6. 学习python的基本语法
 	7. 学习numpy框架的使用
 
-	请于第三周结束前完成以上内容。
+	请于第四周结束前完成以上内容。
 
 
-3. Task2--Locally Weighted Linear Regression
+3. Task——Locally Weighted Linear Regression
 	1. 加载数据Task2/q2x.dat，Task2/q2y.dat
 	2. 使用加权线性回归算法拟合它们(请自行查阅局部加权线性回归的资料)  
 	3. 改变高斯函数的theta值，观察结果
@@ -47,4 +47,4 @@
 	5. 在Task2/15/目录下提交你的结果图(jpg、png、fig)与代码，以自己的github账户名作为文件名，如：sunyiyou.fig,sunyiyou.m
 	6. 学习matplotlib框架的使用
 
-	请于第三周结束前完成以上内容。
+	请于第五周结束前完成以上内容。
