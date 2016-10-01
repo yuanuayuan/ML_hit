@@ -11,6 +11,7 @@
 5. numpy教程。https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
 6. matplotlib教程。http://www.labri.fr/perso/nrougier/teaching/matplotlib/
 7. 其他好资源推荐。http://www.shareditor.com/bloglistbytag/?tagname=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B
+
 欢迎来到新手村，你需要完成以下训练：
 
 1. Task0——github的使用
