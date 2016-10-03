@@ -10,6 +10,7 @@
 4. python学习网站。http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000#0
 5. numpy教程。https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
 6. matplotlib教程。http://www.labri.fr/perso/nrougier/teaching/matplotlib/
+7. 其他好资源推荐。http://www.shareditor.com/bloglistbytag/?tagname=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B
 
 欢迎来到新手村，你需要完成以下训练：
 
@@ -39,7 +40,7 @@
 	请于第四周结束前完成以上内容。
 
 
-3. Task——Locally Weighted Linear Regression
+3. Task2——Locally Weighted Linear Regression
 	1. 加载数据Task2/q2x.dat，Task2/q2y.dat
 	2. 使用加权线性回归算法拟合它们(请自行查阅局部加权线性回归的资料)  
 	3. 改变高斯函数的theta值，观察结果
